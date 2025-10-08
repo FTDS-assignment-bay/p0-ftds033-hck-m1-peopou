@@ -6,27 +6,36 @@
 Contoh:
 ```
 1. README.md - Penjelasan gambaran umum project
-2. notebook.ipynb - Notebook yang berisi pengolahan data dengan python
+2. P0M1_Ahmad Kurniawan.ipynb - Notebook yang berisi pengolahan data dengan python
+3. dATA.xlsx - berisi data yang akan dianalisis
+4. production.xlsx - berisi data yang akan diinput ke tableu
 dst.
 ```
 
 ## Problem Background
-`Bagian ini menjelaskan masalah yang diselesaikan pada project ini beserta latar belakang masalahnya secara singkat`
+`HK OnG perlu melihat kualitas Pinang Field untuk menentukan apakah akan dibeli atau tidak `
 
 ## Project Output
-`Bagian ini menjelaskan secara singkat output projectnya apa, misal model machine learning, dasboard, dsb.`
+`https://public.tableau.com/views/P0M1_ahmadkurniawan/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
 ## Data
-`Bagian ini menjelaskan secara singkat mengenai data yang digunakan seperti sumber data, deskripsi singkat karakteristik data seperti jumlah kolom, baris data, missing values, dsb`
+`Data dari dosen waktu kuliah`
 
 ## Method
-`Bagian ini menjelaskan metode yang digunakan pada project, misal project ini mengenai machine learning sehingga metode yang dipakai adalah model supervised learning dengan model KNN`
+'''pada projek ini dilakukan analisis untuk menjawab pertanyaan 
+1. Berapa total produksi setiap sumur
+2. Cek persebaran data (normal atau tidak normal)
+3. Bagaimana hubungan produksi minyak dan air dari pinang field
+4. Mengevaluasi efisiensi produksi minyak terhadap air (Oil–Water Ratio / OWR)
+5. Bagaimana trend penurunan produksi minyak terhadap waktu
+6. Menentukan sumur dengan potensi produksi terbaik berdasarkan watercut
+'''
 
 ## Stacks
-`Bagian ini menjelaskan stacks yang digunakan seperti bahasa pemrograman, tools, dan library Python yang digunakan`
+`pandas, matplotlib, scipy`
 
 ## Reference
-`Bagian ini berisi link pendukung seperti referensi, dashboard, atau deployment`
+``
 
 ---
 
